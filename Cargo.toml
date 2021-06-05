@@ -1,7 +1,12 @@
 [package]
 name = "plankton"
 version = "0.1.0"
+description = "Work in progress! - An image compression library written in pure Rust"
+repository = "https://github.com/coastalwhite/plankton"
+license = "MIT or Apache-2.0"
 authors = ["Gijs Burghoorn <me@gburghoorn.com>"]
 edition = "2018"
+keywords = ["image", "compression"]
+categories = ["multimedia::images", "algorithms"]
 
 [dependencies]
